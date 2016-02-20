@@ -1,0 +1,28 @@
+﻿<LabTech_Expansion
+	Version="105.226"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId></ScriptId>
+				<FolderId></FolderId>
+				<ScriptName>LT - Script Shedule After Reboot</ScriptName>
+				<ScriptNotes>This script will check to see if any scripts are scheduled to run 2 years in the future and schedule them to run NOW().
+Chris Taylor</ScriptNotes>
+				<Permission></Permission>
+				<EditPermission></EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData></LicenseData>
+				<ScriptData></ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid></ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+	</PackedScript>
+</LabTech_Expansion>
