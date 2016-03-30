@@ -5,13 +5,14 @@
 	<PackedScript>
 		<NewDataSet>
 			<Table>
-				<ScriptId>6712</ScriptId>
-				<FolderId>277</FolderId>
+				<ScriptId></ScriptId>
+				<FolderId></FolderId>
 				<ScriptName>LT - Script Shedule After Reboot</ScriptName>
 				<ScriptNotes>This script will check to see if any scripts are sheduled to run 2 years in the future and schedule them to run NOW().
+labtechconsulting.com
 Chris Taylor</ScriptNotes>
-				<Permission>2,4,5,11,</Permission>
-				<EditPermission>1,5,</EditPermission>
+				<Permission></Permission>
+				<EditPermission></EditPermission>
 				<ComputerScript>1</ComputerScript>
 				<LocationScript>0</LocationScript>
 				<MaintenanceScript>0</MaintenanceScript>
@@ -24,15 +25,5 @@ Chris Taylor</ScriptNotes>
 				<Parameters></Parameters>
 			</Table>
 		</NewDataSet>
-		<ScriptFolder>
-			<NewDataSet>
-				<Table>
-					<FolderID>277</FolderID>
-					<ParentID>0</ParentID>
-					<Name>Taylor</Name>
-					<GUID>a765f6c0-15da-444f-95ee-d2c9252c1a18</GUID>
-				</Table>
-			</NewDataSet>
-		</ScriptFolder>
 	</PackedScript>
 </LabTech_Expansion>
